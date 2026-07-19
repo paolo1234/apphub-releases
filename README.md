@@ -1,3 +1,2 @@
-# apphub-releases
-
-Repo centralizzato per tutti i rilasci di app su AppHub.
+# AppHub Releases
+Repository per le release APK di AppHub.
